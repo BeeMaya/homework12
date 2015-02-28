@@ -10,5 +10,9 @@
 + (NSMutableArray *) loadRawDataArray;            //создаем изменяемый массив, куда будут загружаться сырые данные
 
 
++ (NSMutableArray *)loadRawArrayByName:(NSString *)name;
+
 + (void)performBlock:(void (^)())pFunction nTimes:(int)times;    //создаем метод
+
+
 @end

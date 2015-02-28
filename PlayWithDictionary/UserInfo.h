@@ -14,6 +14,8 @@
 @property NSString* user;
 @property NSString* bitcoin;
 
+
+
 - (instancetype)initWithZip:(NSString *)zip country:(NSString *)country city:(NSString *)city address:(NSString *)address user:(NSString *)user bitcoin:(NSString *)bitcoin;  //инициализируем класс с его свойствами
 
 - (NSString *)description;      //перекрываем дискрипшен

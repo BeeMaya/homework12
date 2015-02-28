@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+    <dict>
+      <key>name</key>
+      <string>Maya</string>
+
+      <key>age</key>
+      <integer>31</integer>
+
+      <key>gender</key>
+      <string>female</string>
+
+      <key>salary</key>
+      <integer>1000</integer>
+
+      <key>children</key>
+      <string>no</string>string
+
+      <key>education</key>
+      <string>high</string>
+
+      <key>profession</key>
+      <string>office_manager</string>
+
+      <key>city_of_birth</key>
+      <string>Kharkov</string>
+
+      <key>pet</key>
+      <string>cat</string>
+
+      <key>car</key>
+      <string>no</string>
+
+      <key>credit_car_number</key>
+      <integer>1234</integer>
+    </dict>
+
+</plist>

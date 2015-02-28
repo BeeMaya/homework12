@@ -29,7 +29,10 @@
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "PlayWithDictionaryTests/testPerformanceExample">
+                  Identifier = "Homework13Tests/testExample1">
+               </Test>
+               <Test
+                  Identifier = "PlayWithDictionaryTests">
                </Test>
             </SkippedTests>
          </TestableReference>
